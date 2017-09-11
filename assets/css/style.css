@@ -1,0 +1,26 @@
+html{
+	font-size: 100%;
+}
+.succeed_tasks{
+	background-color: green;
+	color: white;
+}
+
+.not_yet_tasks{
+	background-color: red;
+	color: white;
+}
+.task_content{
+	padding-top: 10vh;
+	padding-left: 15vh;
+	font-size: 1.5em;
+}
+.panel{
+	max-height: 30vh;
+}
+.panel img{
+	max-height: 17vh;
+}
+footer{
+	position: relative;
+}
